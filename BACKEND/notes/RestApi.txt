@@ -1,0 +1,37 @@
+REST API-REpresentational State Transfer API
+
+**HTTP VERBS
+
+	CREATE --> POST 
+	READ --> GET   
+	UPDATE --> PUT, PATCH
+	DELETE --> DELETE
+
+-> npm init -y
+
+-> npm i express
+
+-> npm i mongoose
+
+***POSTMANN
+
+1) Create Collection
+->Create Collection -> Create Request -> POST ->localhost:8000/<url> ->  Send
+->Body -> raw --> JSON
+->Fill data(JSON Form)
+
+2) Read Collection
+->find()
+->findById(id)
+
+3) Update Collection
+->findByIdAndUpdate(id, update, { new: true })
+
+4) Delete Collection
+->findByIdAndDelete(id)
+
+
+
+
+
+

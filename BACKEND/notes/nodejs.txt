@@ -1,0 +1,51 @@
+Node.js(W3School)
+REPL- Read Eval Print Loop - node(.help)
+1) getting started
+
+2) exporting a module
+
+3) Node.js HTTP Module
+
+4) Node.js File System Module
+ CRUD:
+ Read files
+	fs.readFile()
+ Create files
+	fs.appendFile()
+	fs.open()
+	fs.writeFile()
+ Update files
+	fs.appendFile()
+	fs.writeFile()
+ Delete files
+	fs.unlink()
+ Rename files
+	fs.rename()
+
+5) Node.js URL Module
+
+6) Node.js NPM
+
+7) Events in Node.js
+
+8) Node.js Upload Files
+     	Create
+	Parse
+	Save
+
+9) OS Module
+
+10) Path Module
+
+11) JSON File :
+	JSON.stringify()
+	JSON.parse()
+
+12) Node.js API
+
+13) Node.js Streams and Buffer
+
+14) Node.js Send an Email
+
+     
+

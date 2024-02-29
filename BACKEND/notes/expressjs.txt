@@ -1,0 +1,25 @@
+Express.js(tutorial point)
+
+extra(type null > app.js)
+
+1) Introduction (hello world)
+
+2) Routing
+
+3) To send html and JSON data
+
+4) To serve static files.
+
+5) Template Engines(to add dynamic content)
+	*pug, handlebars(hbs), EJS
+
+5a) Customizing views directory(To Rename)
+
+6) Partials(to save part of code)
+
+7) Query string
+
+8)***Express Router:
+ a) Create express router
+ b) Define router
+ c) Register router
